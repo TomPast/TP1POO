@@ -3,8 +3,10 @@
 [![Documentation Status](https://readthedocs.org/projects/tp1poo/badge/?version=latest)](https://tp1poo.readthedocs.io/en/latest/?badge=latest)
 
 
-
+TRAVIS CI
 https://travis-ci.com/TomPast/TP1POO
+CODE CLIMATE
 https://codeclimate.com/github/TomPast/TP1POO
+READ THE DOCS
 https://readthedocs.org/projects/tp1poo/
 
