@@ -1,0 +1,30 @@
+2019-11-29 10:46:31.812 [main] DEBUG ZooTest - testNouveauVisiteur
+2019-11-29 10:46:31.824 [main] INFO  Zoo - Creation secteur : Canin
+2019-11-29 10:46:31.828 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.828 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.828 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] INFO  Zoo - Ajout Visiteur
+2019-11-29 10:46:31.832 [main] FATAL Zoo - Limite de visiteur dépassée
+2019-11-29 10:46:31.838 [main] DEBUG ZooTest - testNouvelAnimal
+2019-11-29 10:46:31.838 [main] INFO  Zoo - Creation secteur : Canin
+2019-11-29 10:46:31.839 [main] INFO  Zoo - Nouvel Animal
+2019-11-29 10:46:31.839 [main] ERROR Zoo - Aucun secteur correspondant à ce type d'animal
+2019-11-29 10:46:31.839 [main] DEBUG ZooTest - testPlusGrosSecteur
+2019-11-29 10:46:31.839 [main] INFO  Zoo - Creation secteur : Canin
+2019-11-29 10:46:31.839 [main] INFO  Zoo - Creation secteur : Félin
+2019-11-29 10:46:31.839 [main] INFO  Zoo - Nouvel Animal
+2019-11-29 10:46:31.839 [main] INFO  Zoo - Nouvel Animal
+2019-11-29 10:46:31.839 [main] INFO  Zoo - Nouvel Animal
+2019-11-29 10:46:31.839 [main] INFO  Zoo - Plus gros secteur

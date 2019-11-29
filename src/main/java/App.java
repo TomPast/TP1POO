@@ -1,3 +1,4 @@
+import java.util.Collections;
 
 public class App {
 	public static Zoo zoo = new Zoo();
@@ -9,8 +10,14 @@ public class App {
 		Chien chien = new Chien();
 		zoo.nouvelAnimal(chat);
 		zoo.nouvelAnimal(chien);
+		zoo.nouvelAnimal(chien);
+		
+		System.out.println(zoo.PlusGrosSecteur().obtenirType());
+		
 		
 		System.out.println("Nombre animaux : "+ zoo.nombreAnimaux());
+		
+		
 		
 	}
 }
